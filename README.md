@@ -7,3 +7,6 @@ Repositorio de la clase introducción a la ciencia de datos 2026/03/26.
 #### Nivel 4 (H4)
 ##### Nivel 5 (H5)
 ###### Nivel 6 (H6)
+
+
+![Jajsdflkj](foto.jpg)
